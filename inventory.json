@@ -1,6 +1,6 @@
 {
   "dealership": "Harmony Acura",
-  "generated_at": "2026-09-26T09:20:20",
+  "generated_at": "2026-10-08T14:37:38",
   "vehicle_count": 215,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2009 Mitsubishi Lancer GTSin Kelowna",
       "vin": "JA3AX88WX9U614419",
       "stock": "NUMBER",
+      "trim": "GTS",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/10aca10b3416.html",
       "source_url": "https://www.harmonyacura.com/used/2009-Mitsubishi-Lancer-id14406114.html",
       "dealer_url": "https://www.harmonyacura.com/used/2009-Mitsubishi-Lancer-id14406114.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,8 +19,10 @@
       "odometer_km": 120681,
       "year": 2009,
       "make": "Mitsubishi",
-      "model": "Lancer GTSin Kelowna",
-      "condition": "used"
+      "model": "Lancer",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2009 Mitsubishi Lancer ",
@@ -34,13 +37,16 @@
       "year": 2009,
       "make": "Mitsubishi",
       "model": "Lancer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2009 Nissan Altima 2.5 Sin Kelowna",
       "vin": "1N4AL21E49C149823",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "2.5 S",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/143137aa4f1d.html",
       "source_url": "https://www.harmonyacura.com/used/2009-Nissan-Altima-id14149436.html",
       "dealer_url": "https://www.harmonyacura.com/used/2009-Nissan-Altima-id14149436.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -50,8 +56,10 @@
       "odometer_km": 191711,
       "year": 2009,
       "make": "Nissan",
-      "model": "Altima 2.5 Sin Kelowna",
-      "condition": "used"
+      "model": "Altima",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2009 Nissan Altima ",
@@ -67,12 +75,15 @@
       "year": 2009,
       "make": "Nissan",
       "model": "Altima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2010 Honda Civic Sedan EX-Lin Kelowna",
       "vin": "2HGFA1F01AH023502",
       "stock": "NUMBER",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/85b41b9c5617.html",
       "source_url": "https://www.harmonyacura.com/used/2010-Honda-Civic_Sedan-id14342843.html",
       "dealer_url": "https://www.harmonyacura.com/used/2010-Honda-Civic_Sedan-id14342843.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -82,8 +93,10 @@
       "odometer_km": 183374,
       "year": 2010,
       "make": "Honda",
-      "model": "Civic Sedan EX-Lin Kelowna",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2010 Honda Civic Sedan ",
@@ -98,13 +111,16 @@
       "year": 2010,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2010 Volkswagen Tiguan Trendlinein Kelowna",
       "vin": "WVGAV9AX2AW520345",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7876977e3f9b.html",
       "source_url": "https://www.harmonyacura.com/used/2010-Volkswagen-Tiguan-id14288663.html",
       "dealer_url": "https://www.harmonyacura.com/used/2010-Volkswagen-Tiguan-id14288663.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -114,8 +130,10 @@
       "odometer_km": 236356,
       "year": 2010,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Kelowna",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2010 Volkswagen Tiguan ",
@@ -131,13 +149,16 @@
       "year": 2010,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2011 Acura RDX Tech Pkgin Kelowna",
       "vin": "5J8TB1H58BA800492",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Tech Pkg",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/131870a66930.html",
       "source_url": "https://www.harmonyacura.com/used/2011-Acura-RDX-id14288657.html",
       "dealer_url": "https://www.harmonyacura.com/used/2011-Acura-RDX-id14288657.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -147,8 +168,10 @@
       "odometer_km": 178070,
       "year": 2011,
       "make": "Acura",
-      "model": "RDX Tech Pkgin Kelowna",
-      "condition": "used"
+      "model": "RDX",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2011 Acura RDX ",
@@ -164,13 +187,16 @@
       "year": 2011,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2011 Kia Soul 2uin Kelowna",
       "vin": "KNDJT2A26B7725118",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "2u",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/557b07329c78.html",
       "source_url": "https://www.harmonyacura.com/used/2011-Kia-Soul-id14154771.html",
       "dealer_url": "https://www.harmonyacura.com/used/2011-Kia-Soul-id14154771.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -180,8 +206,10 @@
       "odometer_km": 156649,
       "year": 2011,
       "make": "Kia",
-      "model": "Soul 2uin Kelowna",
-      "condition": "used"
+      "model": "Soul",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2011 Kia Soul ",
@@ -197,7 +225,9 @@
       "year": 2011,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2012 BMW X5in Kelowna",
@@ -214,7 +244,9 @@
       "year": 2012,
       "make": "BMW",
       "model": "X5in Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2012 BMW X5 ",
@@ -230,13 +262,16 @@
       "year": 2012,
       "make": "BMW",
       "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2012 Kia Sportage LXin Kelowna",
       "vin": "KNDPB3A20C7283795",
       "stock": "NUMBER",
       "color": "Brown",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/badc1272abbb.html",
       "source_url": "https://www.harmonyacura.com/used/2012-Kia-Sportage-id14122902.html",
       "dealer_url": "https://www.harmonyacura.com/used/2012-Kia-Sportage-id14122902.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -246,8 +281,10 @@
       "odometer_km": 106308,
       "year": 2012,
       "make": "Kia",
-      "model": "Sportage LXin Kelowna",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2012 Kia Sportage ",
@@ -263,7 +300,9 @@
       "year": 2012,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Acura TL w/Elite Pkgin Kelowna",
@@ -280,7 +319,9 @@
       "year": 2013,
       "make": "Acura",
       "model": "TL w/Elite Pkgin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Acura TL ",
@@ -296,13 +337,16 @@
       "year": 2013,
       "make": "Acura",
       "model": "TL",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Chevrolet Equinox LSin Kelowna",
       "vin": "2GNFLCEK0D6340797",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "LS",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/1d00178ae8d9.html",
       "source_url": "https://www.harmonyacura.com/used/2013-Chevrolet-Equinox-id13900351.html",
       "dealer_url": "https://www.harmonyacura.com/used/2013-Chevrolet-Equinox-id13900351.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -312,8 +356,10 @@
       "odometer_km": 214749,
       "year": 2013,
       "make": "Chevrolet",
-      "model": "Equinox LSin Kelowna",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Chevrolet Equinox ",
@@ -329,13 +375,16 @@
       "year": 2013,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Ford Escape Titaniumin Kelowna",
       "vin": "1FMCU9J9XDUA26781",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Titanium",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/040fad07a46a.html",
       "source_url": "https://www.harmonyacura.com/used/2013-Ford-Escape-id14288658.html",
       "dealer_url": "https://www.harmonyacura.com/used/2013-Ford-Escape-id14288658.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -345,8 +394,10 @@
       "odometer_km": 177218,
       "year": 2013,
       "make": "Ford",
-      "model": "Escape Titaniumin Kelowna",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Ford Escape ",
@@ -362,13 +413,16 @@
       "year": 2013,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Nissan Juke SVin Kelowna",
       "vin": "JN8AF5MV6DT205319",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/b91050178877.html",
       "source_url": "https://www.harmonyacura.com/used/2013-Nissan-Juke-id14355941.html",
       "dealer_url": "https://www.harmonyacura.com/used/2013-Nissan-Juke-id14355941.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -378,8 +432,10 @@
       "odometer_km": 75581,
       "year": 2013,
       "make": "Nissan",
-      "model": "Juke SVin Kelowna",
-      "condition": "used"
+      "model": "Juke",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2013 Nissan Juke ",
@@ -395,13 +451,16 @@
       "year": 2013,
       "make": "Nissan",
       "model": "Juke",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Honda Odyssey EXin Kelowna",
       "vin": "5FNRL5H43EB505297",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ebfdb940720a.html",
       "source_url": "https://www.harmonyacura.com/used/2014-Honda-Odyssey-id14167988.html",
       "dealer_url": "https://www.harmonyacura.com/used/2014-Honda-Odyssey-id14167988.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -411,8 +470,10 @@
       "odometer_km": 265026,
       "year": 2014,
       "make": "Honda",
-      "model": "Odyssey EXin Kelowna",
-      "condition": "used"
+      "model": "Odyssey",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Honda Odyssey ",
@@ -428,13 +489,16 @@
       "year": 2014,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Elantra Coupe SEin Kelowna",
       "vin": "KMHDH6AH6EU026924",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/0d37088db3c6.html",
       "source_url": "https://www.harmonyacura.com/used/2014-Hyundai-Elantra_Coupe-id14387803.html",
       "dealer_url": "https://www.harmonyacura.com/used/2014-Hyundai-Elantra_Coupe-id14387803.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,8 +508,10 @@
       "odometer_km": 129214,
       "year": 2014,
       "make": "Hyundai",
-      "model": "Elantra Coupe SEin Kelowna",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Hyundai Elantra Coupe ",
@@ -461,12 +527,15 @@
       "year": 2014,
       "make": "Hyundai",
       "model": "Elantra Coupe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Versa Notein Kelowna",
       "vin": "3N1CE2CP2EL369488",
       "stock": "NUMBER",
+      "trim": "Note",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9f3ed3caff20.html",
       "source_url": "https://www.harmonyacura.com/used/2014-Nissan-Versa_Note-id14355944.html",
       "dealer_url": "https://www.harmonyacura.com/used/2014-Nissan-Versa_Note-id14355944.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -476,13 +545,16 @@
       "odometer_km": 170550,
       "year": 2014,
       "make": "Nissan",
-      "model": "Versa Notein Kelowna",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Versa Note ",
       "vin": "3N1CE2CP2EL369488",
       "stock": 14355944,
+      "trim": "Note",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/fd45ad477781.html",
       "source_url": "https://www.harmonyacura.com/used/2014-Nissan-Versa_Note.html",
       "dealer_url": "https://www.harmonyacura.com/used/2014-Nissan-Versa_Note.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -491,14 +563,17 @@
       "price_currency": "CAD",
       "year": 2014,
       "make": "Nissan",
-      "model": "Versa Note",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Tiguan Highlinein Kelowna",
       "vin": "WVGJV3AX0EW610063",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/40bd20ab8a20.html",
       "source_url": "https://www.harmonyacura.com/used/2014-Volkswagen-Tiguan-id14099517.html",
       "dealer_url": "https://www.harmonyacura.com/used/2014-Volkswagen-Tiguan-id14099517.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -508,8 +583,10 @@
       "odometer_km": 108935,
       "year": 2014,
       "make": "Volkswagen",
-      "model": "Tiguan Highlinein Kelowna",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Tiguan ",
@@ -525,13 +602,16 @@
       "year": 2014,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Touareg 3.0 TDIin Kelowna",
       "vin": "WVGDP9BP6ED010183",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "3.0 TDI",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/de739b26e854.html",
       "source_url": "https://www.harmonyacura.com/used/2014-Volkswagen-Touareg-id13819068.html",
       "dealer_url": "https://www.harmonyacura.com/used/2014-Volkswagen-Touareg-id13819068.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -541,8 +621,10 @@
       "odometer_km": 234619,
       "year": 2014,
       "make": "Volkswagen",
-      "model": "Touareg 3.0 TDIin Kelowna",
-      "condition": "used"
+      "model": "Touareg",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2014 Volkswagen Touareg ",
@@ -558,7 +640,9 @@
       "year": 2014,
       "make": "Volkswagen",
       "model": "Touareg",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Dodge Grand Caravanin Kelowna",
@@ -575,7 +659,9 @@
       "year": 2015,
       "make": "Dodge",
       "model": "Grand Caravanin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Dodge Grand Caravan ",
@@ -591,7 +677,9 @@
       "year": 2015,
       "make": "Dodge",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V ",
@@ -607,7 +695,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V ",
@@ -623,13 +713,16 @@
       "year": 2015,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Veloster Basein Kelowna",
       "vin": "KMHTC6AD8FU245621",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Base",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/677707426ff8.html",
       "source_url": "https://www.harmonyacura.com/used/2015-Hyundai-Veloster-id13771205.html",
       "dealer_url": "https://www.harmonyacura.com/used/2015-Hyundai-Veloster-id13771205.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -639,8 +732,10 @@
       "odometer_km": 138511,
       "year": 2015,
       "make": "Hyundai",
-      "model": "Veloster Basein Kelowna",
-      "condition": "used"
+      "model": "Veloster",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2015 Hyundai Veloster ",
@@ -656,12 +751,15 @@
       "year": 2015,
       "make": "Hyundai",
       "model": "Veloster",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Murano Platinumin Kelowna",
       "vin": "5N1AZ2MH1GN136376",
       "stock": "NUMBER",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/4809c1694417.html",
       "source_url": "https://www.harmonyacura.com/used/2016-Nissan-Murano-id14355942.html",
       "dealer_url": "https://www.harmonyacura.com/used/2016-Nissan-Murano-id14355942.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -671,8 +769,10 @@
       "odometer_km": 92613,
       "year": 2016,
       "make": "Nissan",
-      "model": "Murano Platinumin Kelowna",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Murano ",
@@ -687,13 +787,16 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Tiguan Trendlinein Kelowna",
       "vin": "WVGKV7AXXGW597160",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9111798e4906.html",
       "source_url": "https://www.harmonyacura.com/used/2016-Volkswagen-Tiguan-id14159495.html",
       "dealer_url": "https://www.harmonyacura.com/used/2016-Volkswagen-Tiguan-id14159495.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -703,8 +806,10 @@
       "odometer_km": 145041,
       "year": 2016,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Kelowna",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Volkswagen Tiguan ",
@@ -720,7 +825,9 @@
       "year": 2016,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Acura ILX ",
@@ -736,7 +843,9 @@
       "year": 2017,
       "make": "Acura",
       "model": "ILX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Acura MDX ",
@@ -751,13 +860,16 @@
       "year": 2017,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X3 xDrive35iin Kelowna",
       "vin": "5UXWX7C3XH0W40070",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "xDrive35i",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/627214dc269f.html",
       "source_url": "https://www.harmonyacura.com/used/2017-BMW-X3-id14319440.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-BMW-X3-id14319440.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,13 +879,16 @@
       "odometer_km": 172822,
       "year": 2017,
       "make": "BMW",
-      "model": "X3 xDrive35iin Kelowna",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X3 xDrive28iin Kelowna",
       "vin": "5UXWX9C33H0W77733",
       "stock": "NUMBER",
+      "trim": "xDrive28i",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/70626070a809.html",
       "source_url": "https://www.harmonyacura.com/used/2017-BMW-X3-id14421703.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-BMW-X3-id14421703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -783,8 +898,10 @@
       "odometer_km": 175604,
       "year": 2017,
       "make": "BMW",
-      "model": "X3 xDrive28iin Kelowna",
-      "condition": "used"
+      "model": "X3",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X3 ",
@@ -800,7 +917,9 @@
       "year": 2017,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 BMW X3 ",
@@ -816,13 +935,16 @@
       "year": 2017,
       "make": "BMW",
       "model": "X3",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Traverse 1LTin Kelowna",
       "vin": "1GNKVHKD8HJ153442",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "1LT",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/564cb08d0fee.html",
       "source_url": "https://www.harmonyacura.com/used/2017-Chevrolet-Traverse-id13767327.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Chevrolet-Traverse-id13767327.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -832,8 +954,10 @@
       "odometer_km": 220675,
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Traverse 1LTin Kelowna",
-      "condition": "used"
+      "model": "Traverse",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Traverse ",
@@ -849,13 +973,16 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape SEin Kelowna",
       "vin": "1FMCU9GDXHUE19374",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ad83a51fd402.html",
       "source_url": "https://www.harmonyacura.com/used/2017-Ford-Escape-id13883328.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Ford-Escape-id13883328.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -865,14 +992,17 @@
       "odometer_km": 85575,
       "year": 2017,
       "make": "Ford",
-      "model": "Escape SEin Kelowna",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape SEin Kelowna",
       "vin": "1FMCU9GD8HUB06940",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SE",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/4b5e916daad8.html",
       "source_url": "https://www.harmonyacura.com/used/2017-Ford-Escape-id14227673.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Ford-Escape-id14227673.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -882,8 +1012,10 @@
       "odometer_km": 74512,
       "year": 2017,
       "make": "Ford",
-      "model": "Escape SEin Kelowna",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -899,7 +1031,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -915,7 +1049,9 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V ",
@@ -930,13 +1066,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport 2.4 SEin Kelowna",
       "vin": "5XYZUDLB6HG417824",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport 2.4 SE",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/b8299a0b6503.html",
       "source_url": "https://www.harmonyacura.com/used/2017-Hyundai-Santa_Fe_Sport-id14122899.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Hyundai-Santa_Fe_Sport-id14122899.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -946,14 +1085,17 @@
       "odometer_km": 71288,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2.4 SEin Kelowna",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLB6HG417824",
       "stock": 14122899,
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/0faa8b640cd5.html",
       "source_url": "https://www.harmonyacura.com/used/2017-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -962,14 +1104,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Forte EXin Kelowna",
       "vin": "3KPFL4A83HE120536",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/853a6e622593.html",
       "source_url": "https://www.harmonyacura.com/used/2017-Kia-Forte-id14131540.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Kia-Forte-id14131540.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -979,8 +1124,10 @@
       "odometer_km": 143826,
       "year": 2017,
       "make": "Kia",
-      "model": "Forte EXin Kelowna",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Kia Forte ",
@@ -996,7 +1143,9 @@
       "year": 2017,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Mazda CX-5 ",
@@ -1011,13 +1160,16 @@
       "year": 2017,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Pathfinder Platinumin Kelowna",
       "vin": "5N1DR2MM6HC646603",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/1b551e9f4dbc.html",
       "source_url": "https://www.harmonyacura.com/used/2017-Nissan-Pathfinder-id13900346.html",
       "dealer_url": "https://www.harmonyacura.com/used/2017-Nissan-Pathfinder-id13900346.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1027,8 +1179,10 @@
       "odometer_km": 168680,
       "year": 2017,
       "make": "Nissan",
-      "model": "Pathfinder Platinumin Kelowna",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Pathfinder ",
@@ -1044,7 +1198,9 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Audi Q3 ",
@@ -1060,7 +1216,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Audi RS 3 ",
@@ -1075,7 +1233,9 @@
       "year": 2018,
       "make": "Audi",
       "model": "RS 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 BMW 4 Series ",
@@ -1091,7 +1251,9 @@
       "year": 2018,
       "make": "BMW",
       "model": "4 Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 BMW X3 ",
@@ -1106,13 +1268,16 @@
       "year": 2018,
       "make": "BMW",
       "model": "X3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Equinox Premierin Kelowna",
       "vin": "3GNAXXEU5JS630019",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/59bedb960dde.html",
       "source_url": "https://www.harmonyacura.com/used/2018-Chevrolet-Equinox-id14080702.html",
       "dealer_url": "https://www.harmonyacura.com/used/2018-Chevrolet-Equinox-id14080702.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1122,8 +1287,10 @@
       "odometer_km": 133085,
       "year": 2018,
       "make": "Chevrolet",
-      "model": "Equinox Premierin Kelowna",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Equinox ",
@@ -1139,12 +1306,15 @@
       "year": 2018,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Trax LTin Kelowna",
       "vin": "3GNCJPSB1JL346653",
       "stock": "NUMBER",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9163bb2b40e7.html",
       "source_url": "https://www.harmonyacura.com/used/2018-Chevrolet-Trax-id14387802.html",
       "dealer_url": "https://www.harmonyacura.com/used/2018-Chevrolet-Trax-id14387802.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1154,8 +1324,10 @@
       "odometer_km": 149094,
       "year": 2018,
       "make": "Chevrolet",
-      "model": "Trax LTin Kelowna",
-      "condition": "used"
+      "model": "Trax",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Chevrolet Trax ",
@@ -1170,12 +1342,15 @@
       "year": 2018,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Edge Titaniumin Kelowna",
       "vin": "2FMPK3K97JBB96486",
       "stock": "NUMBER",
+      "trim": "Titanium",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ab51ab9e9430.html",
       "source_url": "https://www.harmonyacura.com/used/2018-Ford-Edge-id14421699.html",
       "dealer_url": "https://www.harmonyacura.com/used/2018-Ford-Edge-id14421699.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1185,8 +1360,10 @@
       "odometer_km": 147176,
       "year": 2018,
       "make": "Ford",
-      "model": "Edge Titaniumin Kelowna",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Ford Edge ",
@@ -1201,7 +1378,9 @@
       "year": 2018,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Odyssey ",
@@ -1217,7 +1396,9 @@
       "year": 2018,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Odyssey ",
@@ -1233,13 +1414,16 @@
       "year": 2018,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano SVin Kelowna",
       "vin": "5N1AZ2MH8JN179491",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/c3fa2f0ca014.html",
       "source_url": "https://www.harmonyacura.com/used/2018-Nissan-Murano-id14227667.html",
       "dealer_url": "https://www.harmonyacura.com/used/2018-Nissan-Murano-id14227667.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1249,8 +1433,10 @@
       "odometer_km": 122835,
       "year": 2018,
       "make": "Nissan",
-      "model": "Murano SVin Kelowna",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Murano ",
@@ -1266,12 +1452,15 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Qashqai SVin Kelowna",
       "vin": "JN1BJ1CR5JW281462",
       "stock": "NUMBER",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/1e07acb806ea.html",
       "source_url": "https://www.harmonyacura.com/used/2018-Nissan-Qashqai-id14387781.html",
       "dealer_url": "https://www.harmonyacura.com/used/2018-Nissan-Qashqai-id14387781.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1281,8 +1470,10 @@
       "odometer_km": 106452,
       "year": 2018,
       "make": "Nissan",
-      "model": "Qashqai SVin Kelowna",
-      "condition": "used"
+      "model": "Qashqai",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Qashqai ",
@@ -1297,7 +1488,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Porsche Macan ",
@@ -1313,7 +1506,9 @@
       "year": 2018,
       "make": "Porsche",
       "model": "Macan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota RAV4 ",
@@ -1329,7 +1524,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Atlas ",
@@ -1345,7 +1542,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Audi Q5 ",
@@ -1360,7 +1559,9 @@
       "year": 2019,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Chevrolet Blazer ",
@@ -1376,7 +1577,9 @@
       "year": 2019,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Accord Sedan ",
@@ -1391,7 +1594,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Accord Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Honda CR-V ",
@@ -1406,7 +1611,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic Sedan ",
@@ -1421,7 +1628,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Grand Cherokee ",
@@ -1437,13 +1646,16 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sorento EXin Kelowna",
       "vin": "5XYPHDA33KG591252",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/3cf967fe230f.html",
       "source_url": "https://www.harmonyacura.com/used/2019-Kia-Sorento-id14167989.html",
       "dealer_url": "https://www.harmonyacura.com/used/2019-Kia-Sorento-id14167989.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1453,8 +1665,10 @@
       "odometer_km": 71800,
       "year": 2019,
       "make": "Kia",
-      "model": "Sorento EXin Kelowna",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sorento ",
@@ -1470,7 +1684,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-5 ",
@@ -1486,7 +1702,9 @@
       "year": 2019,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Corolla Hatchback ",
@@ -1502,7 +1720,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Corolla Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Tiguan ",
@@ -1518,7 +1738,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Tiguan ",
@@ -1534,7 +1756,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Audi A4 ",
@@ -1549,7 +1773,9 @@
       "year": 2020,
       "make": "Audi",
       "model": "A4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Honda CR-V ",
@@ -1564,7 +1790,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Civic Sedan ",
@@ -1580,7 +1808,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Pilot ",
@@ -1595,7 +1825,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Civic Sedan ",
@@ -1611,7 +1843,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Santa Fe ",
@@ -1627,7 +1861,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Jeep Grand Cherokee ",
@@ -1643,7 +1879,9 @@
       "year": 2020,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Lexus RX ",
@@ -1659,7 +1897,9 @@
       "year": 2020,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Aviator ",
@@ -1675,7 +1915,9 @@
       "year": 2020,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Ascent ",
@@ -1691,7 +1933,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda3 GXin Kelowna",
@@ -1708,7 +1952,9 @@
       "year": 2021,
       "make": "Mazda3",
       "model": "GXin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek ",
@@ -1724,7 +1970,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Acura MDX ",
@@ -1740,7 +1988,9 @@
       "year": 2022,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Explorer ",
@@ -1756,7 +2006,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain ",
@@ -1772,7 +2024,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan ",
@@ -1787,7 +2041,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Elantra ",
@@ -1803,7 +2059,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Tucson ",
@@ -1819,7 +2077,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX ",
@@ -1834,7 +2094,9 @@
       "year": 2022,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi RVR ",
@@ -1849,7 +2111,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Pathfinder ",
@@ -1865,7 +2129,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Corolla ",
@@ -1881,7 +2147,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Acura MDX ",
@@ -1897,7 +2165,9 @@
       "year": 2023,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Acura MDX ",
@@ -1913,7 +2183,9 @@
       "year": 2023,
       "make": "Acura",
       "model": "MDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Palisade ",
@@ -1929,7 +2201,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Fe ",
@@ -1945,7 +2219,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Infiniti QX50 ",
@@ -1960,7 +2236,9 @@
       "year": 2023,
       "make": "Infiniti",
       "model": "QX50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus RX ",
@@ -1976,7 +2254,9 @@
       "year": 2023,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Corolla ",
@@ -1992,7 +2272,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX ",
@@ -2007,7 +2289,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Acura RDX ",
@@ -2023,7 +2307,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX ",
@@ -2038,7 +2324,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "MDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Acura RDX ",
@@ -2054,7 +2342,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "RDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 ",
@@ -2070,7 +2360,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Silverado 1500 ",
@@ -2086,7 +2378,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid ",
@@ -2101,7 +2395,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid ",
@@ -2116,7 +2412,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Palisade ",
@@ -2132,7 +2430,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Venue ",
@@ -2148,7 +2448,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Palisade ",
@@ -2164,7 +2466,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Venue ",
@@ -2180,7 +2484,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Seltos ",
@@ -2196,7 +2502,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sorento ",
@@ -2212,7 +2520,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Seltos ",
@@ -2228,7 +2538,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sorento ",
@@ -2244,7 +2556,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 MINI Countryman ",
@@ -2260,7 +2574,9 @@
       "year": 2024,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 MINI Countryman ",
@@ -2276,7 +2592,9 @@
       "year": 2024,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 MINI Countryman ",
@@ -2292,7 +2610,9 @@
       "year": 2024,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander PHEV ",
@@ -2308,7 +2628,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -2323,7 +2645,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander PHEV ",
@@ -2339,7 +2663,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -2354,7 +2680,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "RVR",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Forester ",
@@ -2370,7 +2698,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback ",
@@ -2385,7 +2715,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Forester ",
@@ -2401,7 +2733,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback ",
@@ -2416,7 +2750,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Camry ",
@@ -2431,7 +2767,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Camry ",
@@ -2446,7 +2784,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q5 ",
@@ -2462,7 +2802,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q5 ",
@@ -2478,7 +2820,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis GV70 ",
@@ -2494,7 +2838,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Genesis GV70 ",
@@ -2510,7 +2856,9 @@
       "year": 2025,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -2526,7 +2874,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V ",
@@ -2541,7 +2891,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Pilot ",
@@ -2556,7 +2908,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -2572,7 +2926,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V ",
@@ -2587,7 +2943,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Pilot ",
@@ -2602,7 +2960,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -2618,7 +2978,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -2634,7 +2996,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Crown Signia ",
@@ -2650,7 +3014,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Crown Signia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Crown Signia ",
@@ -2666,7 +3032,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Crown Signia",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX ",
@@ -2682,7 +3050,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura Integra ",
@@ -2698,7 +3068,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "Integra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX ",
@@ -2714,7 +3086,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura RDXin Kelowna",
@@ -2729,7 +3103,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "RDXin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX ",
@@ -2745,7 +3121,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura Integra ",
@@ -2761,7 +3139,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "Integra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX ",
@@ -2777,7 +3157,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "MDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura RDXin Kelowna",
@@ -2792,7 +3174,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "RDXin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2806,7 +3190,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX A-SPECin Kelowna",
@@ -2820,7 +3206,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX A-SPECin Kelowna",
@@ -2834,7 +3222,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2848,7 +3238,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2862,7 +3254,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2876,7 +3270,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2890,7 +3286,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2904,7 +3302,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2918,7 +3318,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2932,7 +3334,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX A-SPECin Kelowna",
@@ -2946,7 +3350,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2960,7 +3366,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2974,7 +3382,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -2988,7 +3398,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX A-SPECin Kelowna",
@@ -3002,7 +3414,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX A-SPECin Kelowna",
@@ -3016,7 +3430,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX A-SPECin Kelowna",
@@ -3030,7 +3446,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -3044,7 +3462,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -3058,7 +3478,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -3072,7 +3494,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -3086,7 +3510,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -3100,7 +3526,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX A-SPECin Kelowna",
@@ -3114,7 +3542,9 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
@@ -3128,13 +3558,16 @@
       "year": 2026,
       "make": "Acura",
       "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura Integra Elite A-Specin Kelowna",
       "vin": "19UDE4H64TA800061",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/39ac3fecf3f7.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807789.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807789.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3142,14 +3575,17 @@
       "odometer_km": 3550,
       "year": 2026,
       "make": "Acura",
-      "model": "Integra Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "Integra",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura Integra Elite A-Specin Kelowna",
       "vin": "19UDE4H60TA800185",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/54cfcad2fe42.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807790.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807790.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3157,126 +3593,153 @@
       "odometer_km": 7451,
       "year": 2026,
       "make": "Acura",
-      "model": "Integra Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "Integra",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX A-Specin Kelowna",
       "vin": "5J8YE1H00TL801501",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/644fa12908e0.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13021118.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13021118.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:29:06",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX A-Specin Kelowna",
       "vin": "5J8YE1H09TL801674",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/89df5fb64faa.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13079731.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13079731.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:29:17",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Specin Kelowna",
       "vin": "5J8YE1H99TL803522",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/b6c76cfca73b.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13835697.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13835697.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:29:26",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX Platinum Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Specin Kelowna",
       "vin": "5J8YE1H96TL803820",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/aa2e69d01992.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13938114.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13938114.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:29:37",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX Platinum Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Specin Kelowna",
       "vin": "5J8YE1H90TL804042",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/9e8c2f7047dc.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13987049.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id13987049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:29:47",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX Platinum Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Specin Kelowna",
       "vin": "5J8YE1H94TL804190",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c4b3911148d8.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14090620.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14090620.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:29:58",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX Platinum Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Specin Kelowna",
       "vin": "5J8YE1H95TL804537",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/642b986b51fb.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14154745.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14154745.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:30:10",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX Platinum Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Specin Kelowna",
       "vin": "5J8YE1H90TL804641",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c2f6f3483056.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14199385.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14199385.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:30:19",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX Platinum Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX A-Specin Kelowna",
       "vin": "5J8YE1H05TL801509",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/10984da3e8f7.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14199387.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14199387.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3284,22 +3747,27 @@
       "odometer_km": 1030,
       "year": 2026,
       "make": "Acura",
-      "model": "MDX A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Acura MDX Platinum Elite A-Specin Kelowna",
       "vin": "5J8YE1H98TL805634",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Platinum Elite A-Spec",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/a226b3d06683.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14405833.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-MDX-id14405833.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:30:30",
       "year": 2026,
       "make": "Acura",
-      "model": "MDX Platinum Elite A-Specin Kelowna",
-      "condition": "new"
+      "model": "MDX",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -3314,7 +3782,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -3329,7 +3799,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -3344,7 +3816,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -3359,7 +3833,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     }
   ]
 }
