@@ -1,6 +1,6 @@
 {
   "dealership": "Harmony Acura",
-  "generated_at": "2026-10-24T21:50:03",
+  "generated_at": "2026-10-24T21:57:08",
   "vehicle_count": 168,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -98,39 +98,13 @@
     },
     {
       "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H70TM103535",
-      "stock": "NUMBER",
-      "color": "Grey",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d61635f3f3e5.html",
-      "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14244689.html",
-      "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14244689.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T16:16:57",
-      "condition": "new",
-      "city": "Kelowna",
-      "province": "BC"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H72TM103732",
-      "stock": "NUMBER",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8fa65cd1127f.html",
-      "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14288656.html",
-      "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14288656.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:31:05",
-      "condition": "new",
-      "city": "Kelowna",
-      "province": "BC"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
       "vin": "3HDSA2H7XTM103848",
       "stock": "NUMBER",
       "color": "White",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/bc566d23a3ba.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14327045.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14327045.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:31:15",
+      "last_verified": "2026-10-24T21:55:02",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -143,7 +117,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/36988339fe4f.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351173.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351173.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:31:26",
+      "last_verified": "2026-10-24T21:55:13",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -156,7 +130,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/7a8729750069.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351175.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351175.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:44:26",
+      "last_verified": "2026-10-24T21:55:22",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -169,7 +143,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8076f3892951.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351176.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351176.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:44:39",
+      "last_verified": "2026-10-24T21:55:33",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -182,7 +156,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/20ae485cf8bc.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351177.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14351177.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:44:49",
+      "last_verified": "2026-10-24T21:55:44",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -195,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/017d4899a964.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14381620.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14381620.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:44:59",
+      "last_verified": "2026-10-24T21:55:57",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -208,7 +182,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/ecf3b67528af.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14381621.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14381621.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:45:09",
+      "last_verified": "2026-10-24T21:56:09",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -221,7 +195,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/b18499b0fbfc.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14405834.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14405834.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:45:20",
+      "last_verified": "2026-10-24T21:56:19",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -234,7 +208,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/1ef5c52ee8cf.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14405835.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14405835.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:45:31",
+      "last_verified": "2026-10-24T21:56:29",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -247,7 +221,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6740950e2b84.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14405836.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14405836.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:45:42",
+      "last_verified": "2026-10-24T21:56:38",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -416,7 +390,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/e57ccef3e0b7.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14525037.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14525037.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:30:33",
+      "last_verified": "2026-10-24T21:54:31",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -429,7 +403,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c6bd96c06cd9.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14525038.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14525038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:30:43",
+      "last_verified": "2026-10-24T21:54:41",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -442,7 +416,33 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/5a7b80db6c11.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14525040.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14525040.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T15:30:53",
+      "last_verified": "2026-10-24T21:54:51",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H79TM104635",
+      "stock": "NUMBER",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/a2d96261608e.html",
+      "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14539807.html",
+      "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14539807.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:54:08",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H74TM104624",
+      "stock": "NUMBER",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d61bc30bd6ee.html",
+      "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14539808.html",
+      "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-ADX-id14539808.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-24T21:54:20",
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
@@ -455,7 +455,7 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/39ac3fecf3f7.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807789.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807789.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:45:53",
+      "last_verified": "2026-10-24T21:56:49",
       "odometer_km": 7490,
       "condition": "new",
       "city": "Kelowna",
@@ -469,8 +469,8 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/54cfcad2fe42.html",
       "source_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807790.html",
       "dealer_url": "https://www.harmonyacura.com/new/inventory/2026-Acura-Integra-id13807790.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T05:46:03",
-      "odometer_km": 7451,
+      "last_verified": "2026-10-24T21:57:01",
+      "odometer_km": 15210,
       "condition": "new",
       "city": "Kelowna",
       "province": "BC"
