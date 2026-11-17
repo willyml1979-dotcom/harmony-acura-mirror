@@ -1,268 +1,267 @@
 {
   "dealership": "Harmony Acura",
-  "generated_at": "2026-10-26T03:17:52",
-  "vehicle_count": 172,
+  "generated_at": "2026-11-16T19:35:00",
+  "vehicle_count": 169,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H75TM100260",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8cacce21087a.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H52TM102269",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6f6c727bfded.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H79TM102285",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/90a58c6056e8.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H77TM103273",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8ada393878d4.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H72TM103293",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6208ff110797.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H73TM103528",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d19b17291573.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H79TM103520",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d9642d16a9aa.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H7XTM103848",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/bc566d23a3ba.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H78TM103945",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/36988339fe4f.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H59TM104097",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/7a8729750069.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H55TM103982",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8076f3892951.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H7XTM103798",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/20ae485cf8bc.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H76TM104110",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/017d4899a964.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H70TM104121",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/ecf3b67528af.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H78TM104173",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/b18499b0fbfc.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H75TM104177",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/1ef5c52ee8cf.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H53TM104208",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6740950e2b84.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H70TM104250",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/16a9abb76877.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H70TM104362",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/98951c0140a4.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H77TM104360",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/3d11f83f6708.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H77TM104374",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6878d54352cc.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H79TM104375",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/78ba3cb6d561.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H58TM104396",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8af26c2b9422.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H51TM104398",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/57bca90d8d2d.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H72TM104296",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c7237e10efce.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H5XTM104450",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/9b59175ac76d.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H51TM104465",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/826d5fedc737.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H52TM104443",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/f480a4e488ca.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H7XTM104420",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c95cc848c689.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H51TM104658",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/e57ccef3e0b7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H77TM104617",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c6bd96c06cd9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX A-SPECin Kelowna",
-      "vin": "3HDSA2H5XTM104660",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/5a7b80db6c11.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H79TM104635",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/a2d96261608e.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
-      "vin": "3HDSA2H74TM104624",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d61bc30bd6ee.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura Integra Elite A-Specin Kelowna",
-      "vin": "19UDE4H64TA800061",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/39ac3fecf3f7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Acura Integra Elite A-Specin Kelowna",
-      "vin": "19UDE4H60TA800185",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/54cfcad2fe42.html",
-      "condition": "new"
-    },
-    {
-      "name": "2005 Dodge RAM 1500 SLTin Kelowna",
-      "vin": "1D7HU18D55J571270",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/0386043dd814.html",
-      "year": 2005,
-      "make": "Dodge",
-      "model": "RAM 1500 SLTin Kelowna",
+      "name": "Lexus IS 350 2007 for salein Kelowna",
+      "vin": "JTHBE262375014419",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/1e92e233e5f0.html",
       "condition": "used",
-      "price": 17900.0,
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2005 Dodge RAM 1500 ",
-      "vin": "1D7HU18D55J571270",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/766b84c191b0.html",
-      "year": 2005,
-      "make": "Dodge",
-      "model": "RAM 1500",
+      "name": "Toyota RAV4 2011 for salein Kelowna",
+      "vin": "2T3RF4DV0BW171025",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/362798250049.html",
       "condition": "used",
-      "price": 17900.0,
+      "price": 13900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2008 Honda Fit ",
-      "vin": "JHMGD384X8S813422",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/df9314087b42.html",
-      "year": 2008,
-      "make": "Honda",
-      "model": "Fit",
+      "name": "Chevrolet Traverse 2014 for salein Kelowna",
+      "vin": "1GNKVGKD5EJ348937",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/b23c02a181d8.html",
       "condition": "used",
-      "price": 10995.0,
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2008 Honda Fit LXin Kelowna",
-      "vin": "JHMGD384X8S813422",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/865eede7bb7e.html",
-      "year": 2008,
-      "make": "Honda",
-      "model": "Fit",
+      "name": "Chevrolet Trax 2014 for salein Kelowna",
+      "vin": "3GNCJPEB1EL178546",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9bdfa4182199.html",
       "condition": "used",
-      "price": 10995.0,
+      "price": 13500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Soul 2014 for salein Kelowna",
+      "vin": "KNDJP3A54E7080543",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/eef08a6ef39c.html",
+      "condition": "used",
+      "price": 12990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura TLX 2015 for salein Kelowna",
+      "vin": "19UUB3F70FA802294",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/46eb11f8e102.html",
+      "condition": "used",
+      "price": 23990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Enclave 2015 for salein Kelowna",
+      "vin": "5GAKVCKD4FJ102918",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/2bd3c8a2471b.html",
+      "condition": "used",
+      "price": 12999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2015 for salein Kelowna",
+      "vin": "1FMCU9G92FUB52935",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/203039b61b8f.html",
+      "condition": "used",
+      "price": 11990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura ILX 2016 for salein Kelowna",
+      "vin": "19UDE2F76GA801914",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7af5c21eb6df.html",
+      "condition": "used",
+      "price": 23990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X5 2016 for salein Kelowna",
+      "vin": "5UXKR0C50G0U49077",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/51daf0cee7e7.html",
+      "condition": "used",
+      "price": 21987.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Sedan 2016 for salein Kelowna",
+      "vin": "2HGFC2F73GH035110",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/3c6b8c17089d.html",
+      "condition": "used",
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-5 2016 for salein Kelowna",
+      "vin": "JM3KE4DY9G0622079",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/8cbe05cf7080.html",
+      "condition": "used",
+      "price": 21990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volvo V60 2016 for salein Kelowna",
+      "vin": "YV4612HK2G1008756",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/982733173877.html",
+      "condition": "used",
+      "price": 15990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX60 2018 for salein Kelowna",
+      "vin": "5N1DL0MM8JC529729",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/e14ac56a3e9f.html",
+      "condition": "used",
+      "price": 21500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2018 for salein Kelowna",
+      "vin": "5TFDZ5BN4JX031516",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/fe07c6b41822.html",
+      "condition": "used",
+      "price": 48990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Civic Coupe 2020 for salein Kelowna",
+      "vin": "2HGFC4B67LH401315",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/17001f14f46f.html",
+      "condition": "used",
+      "price": 19990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2020 for salein Kelowna",
+      "vin": "5XYPGDA59LG633378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/4092c5a9de8c.html",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Highlander 2020 for salein Kelowna",
+      "vin": "5TDDZRBH9LS001664",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7e410bb858ee.html",
+      "condition": "used",
+      "price": 39990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-3 2022 for salein Kelowna",
+      "vin": "JM1DKFD77N1603244",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/3e7ce5804a9c.html",
+      "condition": "used",
+      "price": 27707.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2023 for salein Kelowna",
+      "vin": "2HKRS4H72PH102925",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/86c134a144ac.html",
+      "condition": "used",
+      "price": 35990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX50 2023 for salein Kelowna",
+      "vin": "3PCAJ5FB8PF103136",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/c7afbf1c24be.html",
+      "condition": "used",
+      "price": 32994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Corolla Hybrid 2023 for salein Kelowna",
+      "vin": "JTDBCMFE9P3011209",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/4ce3951d1794.html",
+      "condition": "used",
+      "price": 24498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2024 for salein Kelowna",
+      "vin": "2HKRS6H9XRH204912",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/4029a26bae09.html",
+      "condition": "used",
+      "price": 39795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda HR-V 2024 for salein Kelowna",
+      "vin": "3CZRZ2H53RM100297",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7f7b27baadce.html",
+      "condition": "used",
+      "price": 30881.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2025 for salein Kelowna",
+      "vin": "2HKRS4H22SH107619",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ce96b13a4e27.html",
+      "condition": "used",
+      "price": 36827.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda HR-V 2025 for salein Kelowna",
+      "vin": "3CZRZ2H76SM104514",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/24a1fbcfaabe.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Ridgeline 2025 for salein Kelowna",
+      "vin": "5FPYK3F81SB501986",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ec39625c7e22.html",
+      "condition": "used",
+      "price": 56990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-70 MHEV 2025 for salein Kelowna",
+      "vin": "JM3KJEHC8S1102202",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9b05e313662b.html",
+      "condition": "used",
+      "price": 46500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2026 for salein Kelowna",
+      "vin": "2HKRS6H67TH219378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7dccbb649c9b.html",
+      "condition": "used",
+      "price": 45900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Odyssey 2026 for salein Kelowna",
+      "vin": "5FNRL6H09TB500704",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/d9072248c7a0.html",
+      "condition": "used",
+      "price": 62990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Passport 2026 for salein Kelowna",
+      "vin": "5FNYF9H85TB500404",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/02c2d6a76388.html",
+      "condition": "used",
+      "price": 59994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2007 Lexus IS 350in Kelowna",
+      "vin": "JTHBE262375014419",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/249abeb550e5.html",
+      "year": 2007,
+      "make": "Lexus",
+      "model": "IS",
+      "condition": "used",
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
@@ -273,7 +272,7 @@
       "make": "Mitsubishi",
       "model": "Lancer",
       "condition": "used",
-      "price": 12500.0,
+      "price": 8990.0,
       "price_currency": "CAD"
     },
     {
@@ -295,7 +294,7 @@
       "make": "Nissan",
       "model": "Altima",
       "condition": "used",
-      "price": 8500.0,
+      "price": 6499.0,
       "price_currency": "CAD"
     },
     {
@@ -310,28 +309,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Honda Civic Sedan EX-Lin Kelowna",
-      "vin": "2HGFA1F01AH023502",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/85b41b9c5617.html",
-      "year": 2010,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 13500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Honda Civic Sedan ",
-      "vin": "2HGFA1F01AH023502",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7aa3b1c05850.html",
-      "year": 2010,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 12990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2010 Volkswagen Tiguan Trendlinein Kelowna",
       "vin": "WVGAV9AX2AW520345",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7876977e3f9b.html",
@@ -339,7 +316,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 9500.0,
+      "price": 7990.0,
       "price_currency": "CAD"
     },
     {
@@ -361,7 +338,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 14500.0,
+      "price": 12900.0,
       "price_currency": "CAD"
     },
     {
@@ -373,6 +350,17 @@
       "model": "RDX",
       "condition": "used",
       "price": 14500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2011 Toyota RAV4 Sportin Kelowna",
+      "vin": "2T3RF4DV0BW171025",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/2fa958e76d9d.html",
+      "year": 2011,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 13900.0,
       "price_currency": "CAD"
     },
     {
@@ -405,7 +393,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 10990.0,
+      "price": 7990.0,
       "price_currency": "CAD"
     },
     {
@@ -420,25 +408,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Nissan Juke SVin Kelowna",
-      "vin": "JN8AF5MV6DT205319",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/b91050178877.html",
-      "year": 2013,
-      "make": "Nissan",
-      "model": "Juke",
+      "name": "2014 Chevrolet Traverse 1LTin Kelowna",
+      "vin": "1GNKVGKD5EJ348937",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/b1e6a07134c2.html",
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Traverse",
       "condition": "used",
-      "price": 11500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Nissan Juke ",
-      "vin": "JN8AF5MV6DT205319",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ec025ee1e947.html",
-      "year": 2013,
-      "make": "Nissan",
-      "model": "Juke",
-      "condition": "used",
-      "price": 11500.0,
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
@@ -449,40 +426,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 14990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Chevrolet Trax ",
-      "vin": "3GNCJPEB1EL178546",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9bdfa4182199.html",
-      "year": 2014,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 14990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Honda Odyssey EXin Kelowna",
-      "vin": "5FNRL5H43EB505297",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ebfdb940720a.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 12500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Honda Odyssey ",
-      "vin": "5FNRL5H43EB505297",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/29ceeccc7f11.html",
-      "year": 2014,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 11990.0,
+      "price": 13500.0,
       "price_currency": "CAD"
     },
     {
@@ -493,7 +437,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 10500.0,
+      "price": 9500.0,
       "price_currency": "CAD"
     },
     {
@@ -508,6 +452,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014 Kia Soul EXin Kelowna",
+      "vin": "KNDJP3A54E7080543",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7df5a36294ff.html",
+      "year": 2014,
+      "make": "Kia",
+      "model": "Soul",
+      "condition": "used",
+      "price": 12990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Nissan Versa Note SLin Kelowna",
       "vin": "3N1CE2CP2EL369488",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9f3ed3caff20.html",
@@ -515,7 +470,7 @@
       "make": "Nissan",
       "model": "Versa",
       "condition": "used",
-      "price": 9500.0,
+      "price": 7990.0,
       "price_currency": "CAD"
     },
     {
@@ -549,6 +504,28 @@
       "model": "Touareg",
       "condition": "used",
       "price": 14990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Buick Enclave Premium Groupin Kelowna",
+      "vin": "5GAKVCKD4FJ102918",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7427d351ae87.html",
+      "year": 2015,
+      "make": "Buick",
+      "model": "Enclave",
+      "condition": "used",
+      "price": 12999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Ford Escape SEin Kelowna",
+      "vin": "1FMCU9G92FUB52935",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/bceb184302d3.html",
+      "year": 2015,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 11990.0,
       "price_currency": "CAD"
     },
     {
@@ -596,50 +573,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Chevrolet Malibu LSin Kelowna",
-      "vin": "1G1ZB5ST6GF189081",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/43f57745c19b.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Malibu",
-      "condition": "used",
-      "price": 16900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Chevrolet Malibu ",
-      "vin": "1G1ZB5ST6GF189081",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/fcb586517c88.html",
-      "year": 2016,
-      "make": "Chevrolet",
-      "model": "Malibu",
-      "condition": "used",
-      "price": 16900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda HR-V LXin Kelowna",
-      "vin": "3CZRU6H38GM108431",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/a45a602b5cf3.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Honda HR-V ",
-      "vin": "3CZRU6H38GM108431",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9861579510d0.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 16990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Volkswagen Tiguan Trendlinein Kelowna",
       "vin": "WVGKV7AXXGW597160",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9111798e4906.html",
@@ -662,6 +595,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Volvo V60 T5 Premierin Kelowna",
+      "vin": "YV4612HK2G1008756",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/bf4c29394a44.html",
+      "year": 2016,
+      "make": "Volvo",
+      "model": "V60",
+      "condition": "used",
+      "price": 15990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Acura ILX ",
       "vin": "19UDE2F86HA800255",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/a269f30a387a.html",
@@ -670,28 +614,6 @@
       "model": "ILX",
       "condition": "used",
       "price": 23500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Acura MDX ",
-      "vin": "5FRYD4H83HB504952",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/257a60b95e67.html",
-      "year": 2017,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 21500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 BMW X3 xDrive35iin Kelowna",
-      "vin": "5UXWX7C3XH0W40070",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/627214dc269f.html",
-      "year": 2017,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 16500.0,
       "price_currency": "CAD"
     },
     {
@@ -717,17 +639,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Cadillac XT5 ",
-      "vin": "1GYKNFRS0HZ313665",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/881b46de374e.html",
-      "year": 2017,
-      "make": "Cadillac",
-      "model": "XT5",
-      "condition": "used",
-      "price": 20990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Chevrolet Traverse 1LTin Kelowna",
       "vin": "1GNKVHKD8HJ153442",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/564cb08d0fee.html",
@@ -747,28 +658,6 @@
       "model": "Traverse",
       "condition": "used",
       "price": 8990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Santa Fe Sport 2.4 SEin Kelowna",
-      "vin": "5XYZUDLB6HG417824",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/b8299a0b6503.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 17500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Santa Fe Sport ",
-      "vin": "5XYZUDLB6HG417824",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/0faa8b640cd5.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 17500.0,
       "price_currency": "CAD"
     },
     {
@@ -805,6 +694,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Mazda3 GSin Kelowna",
+      "vin": "JM1BN1V7XH1105303",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7990d9d22224.html",
+      "year": 2017,
+      "make": "Mazda3",
+      "model": "GSin Kelowna",
+      "condition": "used",
+      "price": 19500.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Volkswagen Tiguan Highlinein Kelowna",
       "vin": "WVGLV7AX8HK037876",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9abb4225f3ef.html",
@@ -827,6 +727,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Audi Q3 2.0T Progressivin Kelowna",
+      "vin": "WA1JCCFS3JR032244",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/05d7a376379a.html",
+      "year": 2018,
+      "make": "Audi",
+      "model": "Q3",
+      "condition": "used",
+      "price": 20990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Audi Q3 ",
       "vin": "WA1JCCFS3JR032244",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ecd3c159d1f0.html",
@@ -838,25 +749,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Audi RS 3 ",
-      "vin": "WUABWHFF7J1900118",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/1e7d4684d8fb.html",
+      "name": "2018 BMW 4 Series 430i Gran Coupein Kelowna",
+      "vin": "WBA4J3C5XJBG90465",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/1f988db12f64.html",
       "year": 2018,
-      "make": "Audi",
-      "model": "RS 3",
+      "make": "BMW",
+      "model": "4 Series",
       "condition": "used",
-      "price": 47900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Audi SQ5 ",
-      "vin": "WA1A4AFY6J2022001",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9afce269d340.html",
-      "year": 2018,
-      "make": "Audi",
-      "model": "SQ5",
-      "condition": "used",
-      "price": 31900.0,
+      "price": 19800.0,
       "price_currency": "CAD"
     },
     {
@@ -893,28 +793,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Chevrolet Trax LTin Kelowna",
-      "vin": "3GNCJPSB1JL346653",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9163bb2b40e7.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 13990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Chevrolet Trax ",
-      "vin": "3GNCJPSB1JL346653",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/731d777e7cfe.html",
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used",
-      "price": 13990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Ford Edge Titaniumin Kelowna",
       "vin": "2FMPK3K97JBB96486",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ab51ab9e9430.html",
@@ -937,47 +815,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Honda Civic Sedan EX-Tin Kelowna",
-      "vin": "2HGFC1F47JH100533",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/96632fb13285.html",
+      "name": "2018 Mazda3 GTin Kelowna",
+      "vin": "3MZBN1W31JM225931",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/22ace719b005.html",
       "year": 2018,
-      "make": "Honda",
-      "model": "Civic",
+      "make": "Mazda3",
+      "model": "GTin Kelowna",
       "condition": "used",
       "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Civic Sedan ",
-      "vin": "2HGFC1F47JH100533",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/fa541b04b03a.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Odyssey ",
-      "vin": "5FNRL6H49JB506261",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/c7096f0ae9d3.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 25500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Acura ILX ",
-      "vin": "19UDE2F75KA800097",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/79f90d2cdb56.html",
-      "year": 2019,
-      "make": "Acura",
-      "model": "ILX",
-      "condition": "used",
-      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
@@ -1091,14 +936,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Honda Civic Sedan ",
-      "vin": "2HGFC1F99LH100595",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/f3215a119c1e.html",
+      "name": "2020 Honda Civic Coupe LXin Kelowna",
+      "vin": "2HGFC4B67LH401315",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/56c382877e22.html",
       "year": 2020,
       "make": "Honda",
-      "model": "Civic Sedan",
+      "model": "Civic",
       "condition": "used",
-      "price": 25455.0,
+      "price": 19990.0,
       "price_currency": "CAD"
     },
     {
@@ -1121,6 +966,17 @@
       "model": "QX60",
       "condition": "used",
       "price": 22999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Kia Sorento LXin Kelowna",
+      "vin": "5XYPGDA59LG633378",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/2b6237e83221.html",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 20995.0,
       "price_currency": "CAD"
     },
     {
@@ -1168,39 +1024,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Mazda3 GXin Kelowna",
-      "vin": "JM1BPAB7XM1302013",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/f5fd523c7818.html",
-      "year": 2021,
-      "make": "Mazda3",
-      "model": "GXin Kelowna",
-      "condition": "used",
-      "price": 16500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Acura MDX ",
-      "vin": "5J8YE1H89NL801909",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/725d122f9e55.html",
-      "year": 2022,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 42990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Explorer ",
-      "vin": "1FM5K8GC7NGA05074",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/c0bf7367453f.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 39798.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 GMC Terrain ",
       "vin": "3GKALVEV0NL105035",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/6ac0cda40617.html",
@@ -1220,17 +1043,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 31990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Elantra Preferredin Kelowna",
-      "vin": "KMHLM4AG4NU247831",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/857b6d735d3b.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 18500.0,
       "price_currency": "CAD"
     },
     {
@@ -1264,17 +1076,6 @@
       "model": "Tucson",
       "condition": "used",
       "price": 23985.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Lexus NX ",
-      "vin": "2T2KGCEZ4NC001559",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/d2ebbcd10ffe.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 45989.0,
       "price_currency": "CAD"
     },
     {
@@ -1322,17 +1123,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Acura RDX ",
-      "vin": "5J8TC2H84PL804371",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/f6da858404fe.html",
-      "year": 2023,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 46917.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Audi A4 ",
       "vin": "WAUAAAF40PN016808",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/01fd64ea8c90.html",
@@ -1341,28 +1131,6 @@
       "model": "A4",
       "condition": "used",
       "price": 29999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V ",
-      "vin": "2HKRS4H78PH112018",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/86c134a144ac.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda HR-V ",
-      "vin": "3CZRZ2H52PM104273",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/619a41b83c86.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 31900.0,
       "price_currency": "CAD"
     },
     {
@@ -1399,28 +1167,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Infiniti QX50 ",
-      "vin": "3PCAJ5FB8PF103136",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/c7afbf1c24be.html",
-      "year": 2023,
-      "make": "Infiniti",
-      "model": "QX50",
-      "condition": "used",
-      "price": 33999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Lexus RX ",
-      "vin": "2T2BAMCA2PC026855",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/c1aa2c4d4646.html",
-      "year": 2023,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 44500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Nissan Frontier ",
       "vin": "1N6ED1EK8PN606635",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/66c0e8908bc8.html",
@@ -1432,17 +1178,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Corolla ",
-      "vin": "JTDBCMFE9P3011209",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/15e1453f61ed.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 25458.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Chevrolet Silverado 1500 ",
       "vin": "1GCUDEED0RZ199414",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/19e8f5962b4b.html",
@@ -1451,17 +1186,6 @@
       "model": "Silverado 1500",
       "condition": "used",
       "price": 54432.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H9XRH204912",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/4029a26bae09.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 40989.0,
       "price_currency": "CAD"
     },
     {
@@ -1509,17 +1233,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 MINI Countryman ",
-      "vin": "WMZ83BR0XR3S22131",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/92f9ed8712c0.html",
-      "year": 2024,
-      "make": "MINI",
-      "model": "Countryman",
-      "condition": "used",
-      "price": 37990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Mazda CX-5 ",
       "vin": "JM3KFBCL0R0497242",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/5968beb3b8c9.html",
@@ -1561,17 +1274,6 @@
       "model": "Outlander PHEV",
       "condition": "used",
       "price": 37984.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi RVR ",
-      "vin": "JA4AJUAU6RU608342",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/6651549ee9a6.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used",
-      "price": 22887.0,
       "price_currency": "CAD"
     },
     {
@@ -1641,17 +1343,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Civic Hybrid ",
-      "vin": "2HGFE4F83SH004673",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/d6755f3dc9ec.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 35500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda Pilot ",
       "vin": "5FNYG1H37SB510272",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/db8f67827a45.html",
@@ -1660,17 +1351,6 @@
       "model": "Pilot",
       "condition": "used",
       "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-70 MHEV ",
-      "vin": "JM3KJEHC8S1102202",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9b05e313662b.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-70 MHEV",
-      "condition": "used",
-      "price": 50900.0,
       "price_currency": "CAD"
     },
     {
@@ -1685,26 +1365,328 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H67TH219378",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7dccbb649c9b.html",
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H75TM100260",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8cacce21087a.html",
       "year": 2026,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 46990.0,
-      "price_currency": "CAD"
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
     },
     {
-      "name": "2026 Honda Passport ",
-      "vin": "5FNYF9H85TB500404",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/02c2d6a76388.html",
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H52TM102269",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6f6c727bfded.html",
       "year": 2026,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 61990.0,
-      "price_currency": "CAD"
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H79TM102285",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/90a58c6056e8.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H77TM103273",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8ada393878d4.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H72TM103293",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6208ff110797.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H73TM103528",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d19b17291573.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H79TM103520",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d9642d16a9aa.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H7XTM103848",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/bc566d23a3ba.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H78TM103945",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/36988339fe4f.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H59TM104097",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/7a8729750069.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H55TM103982",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8076f3892951.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H7XTM103798",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/20ae485cf8bc.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H76TM104110",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/017d4899a964.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H70TM104121",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/ecf3b67528af.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H78TM104173",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/b18499b0fbfc.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H75TM104177",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/1ef5c52ee8cf.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H53TM104208",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6740950e2b84.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H70TM104250",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/16a9abb76877.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H70TM104362",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/98951c0140a4.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H77TM104360",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/3d11f83f6708.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H77TM104374",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/6878d54352cc.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H79TM104375",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/78ba3cb6d561.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H58TM104396",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/8af26c2b9422.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H51TM104398",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/57bca90d8d2d.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H72TM104296",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c7237e10efce.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H5XTM104450",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/9b59175ac76d.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H51TM104465",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/826d5fedc737.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H52TM104443",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/f480a4e488ca.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H7XTM104420",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c95cc848c689.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H51TM104658",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/e57ccef3e0b7.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H77TM104617",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/c6bd96c06cd9.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX A-SPECin Kelowna",
+      "vin": "3HDSA2H5XTM104660",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/5a7b80db6c11.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H79TM104635",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/a2d96261608e.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura ADX PLATINUM ELITE A-SPECin Kelowna",
+      "vin": "3HDSA2H74TM104624",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/d61bc30bd6ee.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "ADX PLATINUM ELITE A-SPECin Kelowna",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura Integra Elite A-Specin Kelowna",
+      "vin": "19UDE4H64TA800061",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/39ac3fecf3f7.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "Integra",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Acura Integra Elite A-Specin Kelowna",
+      "vin": "19UDE4H60TA800185",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/54cfcad2fe42.html",
+      "year": 2026,
+      "make": "Acura",
+      "model": "Integra",
+      "condition": "new"
     },
     {
       "name": "2026 Kia Seltos ",
