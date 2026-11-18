@@ -7,7 +7,7 @@ Harmony Acura is a  dealership in Kelowna. This site is an AI-readable mirror of
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ and https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/ (about 166 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ and https://willyml1979-dotcom.github.io/harmony-acura-mirror/new/ (about 168 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/harmony-acura-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/harmony-acura-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/harmony-acura-mirror/llms.txt
