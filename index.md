@@ -1,6 +1,6 @@
 # Harmony Acura
 
- dealership in Kelowna. AI-readable inventory mirror, about 169 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 166 vehicles.
 
 - Official website: https://www.harmonyacura.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/

@@ -1,7 +1,7 @@
 {
   "dealership": "Harmony Acura",
-  "generated_at": "2026-11-16T19:38:36",
-  "vehicle_count": 169,
+  "generated_at": "2026-11-17T17:56:32",
+  "vehicle_count": 166,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/362798250049.html",
       "condition": "used",
       "price": 13900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2012 for salein Kelowna",
+      "vin": "2HKRM4H72CH116053",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/5892fea10329.html",
+      "condition": "used",
+      "price": 13990.0,
       "price_currency": "CAD"
     },
     {
@@ -43,6 +51,14 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/eef08a6ef39c.html",
       "condition": "used",
       "price": 12990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Touareg 2014 for salein Kelowna",
+      "vin": "WVGDP9BP6ED010183",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/624d4c3d5e45.html",
+      "condition": "used",
+      "price": 16900.0,
       "price_currency": "CAD"
     },
     {
@@ -110,6 +126,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Tiguan 2017 for salein Kelowna",
+      "vin": "WVGLV7AX8HK037876",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/67e5c19e1f7f.html",
+      "condition": "used",
+      "price": 17299.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Infiniti QX60 2018 for salein Kelowna",
       "vin": "5N1DL0MM8JC529729",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/e14ac56a3e9f.html",
@@ -123,6 +147,30 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/fe07c6b41822.html",
       "condition": "used",
       "price": 48990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X3 2019 for salein Kelowna",
+      "vin": "5UXTR9C56KLE20511",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/bdf72f8e20a5.html",
+      "condition": "used",
+      "price": 22987.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Fusion Hybrid 2019 for salein Kelowna",
+      "vin": "3FA6P0RU9KR266203",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/3199ad2053cb.html",
+      "condition": "used",
+      "price": 16900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2019 for salein Kelowna",
+      "vin": "5N1DR2MM8KC600424",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ecc16fa0e6c6.html",
+      "condition": "used",
+      "price": 18844.0,
       "price_currency": "CAD"
     },
     {
@@ -163,6 +211,14 @@
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/86c134a144ac.html",
       "condition": "used",
       "price": 35990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Ridgeline 2023 for salein Kelowna",
+      "vin": "5FPYK3F52PB500617",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/cd495f723d87.html",
+      "condition": "used",
+      "price": 47409.0,
       "price_currency": "CAD"
     },
     {
@@ -371,18 +427,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 14500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Honda CR-V ",
-      "vin": "2HKRM4H72CH116053",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/5892fea10329.html",
-      "year": 2012,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 14500.0,
+      "price": 13990.0,
       "price_currency": "CAD"
     },
     {
@@ -492,18 +537,7 @@
       "make": "Volkswagen",
       "model": "Touareg",
       "condition": "used",
-      "price": 14990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Volkswagen Touareg ",
-      "vin": "WVGDP9BP6ED010183",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/624d4c3d5e45.html",
-      "year": 2014,
-      "make": "Volkswagen",
-      "model": "Touareg",
-      "condition": "used",
-      "price": 14990.0,
+      "price": 16900.0,
       "price_currency": "CAD"
     },
     {
@@ -536,7 +570,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 18500.0,
+      "price": 16499.0,
       "price_currency": "CAD"
     },
     {
@@ -551,28 +585,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Hyundai Veloster Basein Kelowna",
-      "vin": "KMHTC6AD8FU245621",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/677707426ff8.html",
-      "year": 2015,
-      "make": "Hyundai",
-      "model": "Veloster",
-      "condition": "used",
-      "price": 7990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Hyundai Veloster ",
-      "vin": "KMHTC6AD8FU245621",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/6df5824b0125.html",
-      "year": 2015,
-      "make": "Hyundai",
-      "model": "Veloster",
-      "condition": "used",
-      "price": 7750.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Volkswagen Tiguan Trendlinein Kelowna",
       "vin": "WVGKV7AXXGW597160",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9111798e4906.html",
@@ -580,7 +592,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 13990.0,
+      "price": 11500.0,
       "price_currency": "CAD"
     },
     {
@@ -624,7 +636,7 @@
       "make": "BMW",
       "model": "X3",
       "condition": "used",
-      "price": 16500.0,
+      "price": 15500.0,
       "price_currency": "CAD"
     },
     {
@@ -646,7 +658,7 @@
       "make": "Chevrolet",
       "model": "Traverse",
       "condition": "used",
-      "price": 9489.0,
+      "price": 7500.0,
       "price_currency": "CAD"
     },
     {
@@ -683,17 +695,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Mazda CX-5 ",
-      "vin": "JM3KFBDL8H0173128",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/8a1effe4dd9e.html",
-      "year": 2017,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 25999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Mazda3 GSin Kelowna",
       "vin": "JM1BN1V7XH1105303",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7990d9d22224.html",
@@ -708,17 +709,6 @@
       "name": "2017 Volkswagen Tiguan Highlinein Kelowna",
       "vin": "WVGLV7AX8HK037876",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9abb4225f3ef.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 19990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Volkswagen Tiguan ",
-      "vin": "WVGLV7AX8HK037876",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/67e5c19e1f7f.html",
       "year": 2017,
       "make": "Volkswagen",
       "model": "Tiguan",
@@ -826,17 +816,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 BMW X3 ",
-      "vin": "5UXTR9C56KLE20511",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/bdf72f8e20a5.html",
-      "year": 2019,
-      "make": "BMW",
-      "model": "X3",
-      "condition": "used",
-      "price": 24999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Ford Fusion Hybrid Titaniumin Kelowna",
       "vin": "3FA6P0RU9KR266203",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/9c073a103a67.html",
@@ -844,18 +823,7 @@
       "make": "Ford",
       "model": "Fusion Hybrid",
       "condition": "used",
-      "price": 18990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Fusion Hybrid ",
-      "vin": "3FA6P0RU9KR266203",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/3199ad2053cb.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Fusion Hybrid",
-      "condition": "used",
-      "price": 18990.0,
+      "price": 16900.0,
       "price_currency": "CAD"
     },
     {
@@ -881,6 +849,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Jeep Grand Cherokee Altitudein Kelowna",
+      "vin": "1C4RJFAG0KC694628",
+      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/6505fd6bdd16.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 21496.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Jeep Grand Cherokee ",
       "vin": "1C4RJFAG0KC694628",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/7abd1aa543b3.html",
@@ -899,18 +878,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 19839.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Pathfinder ",
-      "vin": "5N1DR2MM8KC600424",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/ecc16fa0e6c6.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "used",
-      "price": 19839.0,
+      "price": 18844.0,
       "price_currency": "CAD"
     },
     {
@@ -1068,17 +1036,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Tucson ",
-      "vin": "KM8JCCAE7NU160590",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/e1ee9fa21dc5.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 23985.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Mitsubishi RVR ",
       "vin": "JA4AJVAW4NU605022",
       "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/0d488f408931.html",
@@ -1142,17 +1099,6 @@
       "model": "Odyssey",
       "condition": "used",
       "price": 47995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda Ridgeline ",
-      "vin": "5FPYK3F52PB500617",
-      "url": "https://willyml1979-dotcom.github.io/harmony-acura-mirror/used/cd495f723d87.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Ridgeline",
-      "condition": "used",
-      "price": 47409.0,
       "price_currency": "CAD"
     },
     {
